@@ -8,7 +8,7 @@ import {
 
 import '@solana/wallet-adapter-react-ui/styles.css';
 import Home from './components/Home';
-import Kirat from './components/kirat';
+// import Kirat from './components/kirat';
 
 function App() {
 
