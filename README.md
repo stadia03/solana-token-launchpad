@@ -3,11 +3,12 @@ https://solana-token-launchpad-iota.vercel.app/
 
 # Screenshots
 
-![image](https://github.com/user-attachments/assets/c1e423f8-d0bc-4617-bbd4-b313e1e1d40f)
+![image](https://github.com/user-attachments/assets/534d415d-ccd5-4451-87d9-6fa90feb916f)
 
 
-![image](https://github.com/user-attachments/assets/fce2b73c-e7e4-4d20-ab9e-0133bcbaa7ef)
+![image](https://github.com/user-attachments/assets/0ad3bb8b-7a36-47c5-9f4a-502c7101acfd)
 
+![image](https://github.com/user-attachments/assets/4087804d-0129-4355-8f62-bc75eec847dc)
 
 
 # React + Vite
