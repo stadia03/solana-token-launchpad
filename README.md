@@ -24,4 +24,5 @@ Currently, two official plugins are available:
 ![token_img](https://github.com/user-attachments/assets/b03f7565-9c89-41e7-bed8-29b3d2933ff1)
 
 
-
+https://stadia03.github.io/solana-token-launchpad/metadata.json
+https://github.com/user-attachments/assets/b03f7565-9c89-41e7-bed8-29b3d2933ff1
